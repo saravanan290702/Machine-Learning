@@ -17,3 +17,8 @@ Started on 02-10-22
 
 Second Topic Using Black Friday data
 CLeaning and preparing the data for model training
+
+Started on 04-10-22
+
+Third Topic using the Flight Price Predictions
+CLeaning and preparing the data for model training
